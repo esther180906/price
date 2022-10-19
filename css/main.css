@@ -1,0 +1,7 @@
+.superior {
+    padding-inline: 1.5rem;
+    padding-block: 2rem;
+    border-top-left-radius:  5px;
+    border-top-right-radius: 5px;
+    background: #fff;
+}
